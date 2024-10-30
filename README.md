@@ -17,7 +17,3 @@
 | :----: | :------------------: | :----------------------------------------------------------- |
 |  XML   | GameplayData.package | `Steam\steamapps\common\The Sims 3\Game\Bin\Gameplay`        |
 |  INI   | DeltaBuild0.package  | `Steam\steamapps\common\The Sims 3\GameData\Shared\Packages` |
-|        |                      |                                                              |
-|        |                      |                                                              |
-|        |                      |                                                              |
-|        |                      |                                                              |
