@@ -10,3 +10,14 @@
 3. Move to your Mods folder
 4. Play. Enjoy.
 5. Submit Issues & Suggestions [here](https://github.com/VMPYRC/Naosu/issues)
+
+## Original Files Locations
+
+| Folder |         File         | Location                                                     |
+| :----: | :------------------: | :----------------------------------------------------------- |
+|  XML   | GameplayData.package | `Steam\steamapps\common\The Sims 3\Game\Bin\Gameplay`        |
+|  INI   | DeltaBuild0.package  | `Steam\steamapps\common\The Sims 3\GameData\Shared\Packages` |
+|        |                      |                                                              |
+|        |                      |                                                              |
+|        |                      |                                                              |
+|        |                      |                                                              |
