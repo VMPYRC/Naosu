@@ -30,7 +30,7 @@
   <AcademicDefaultLectureID>AcademicsLectureBusiness</AcademicDefaultLectureID>
   <AcademicDefaultLabID>AcademicsLabBusiness</AcademicDefaultLabID>
   <AssociatedOccupationNameEnum>Business, Criminal, Education, SportsAgent</AssociatedOccupationNameEnum>
-  <SkillsThatGrantXP>Charisma,0.01; SocialNetworking,0.01; Bartending,0.01; Writing,0.01; Logic,0.01</SkillsThatGrantXP>
+  <SkillsThatGrantXP>Bartending,0.01; Charisma,0.01; Logic,0.01; SocialNetworking,0.01; Writing,0.01</SkillsThatGrantXP>
   <BeneficialTraits>Ambitious, BornSalesman, Burglar, Charismatic, Evil, Frugal, Genius, Mooch, Perceptive, Workaholic</BeneficialTraits>
   <DetrimentalTraits>AbsentMinded, Loser</DetrimentalTraits>
   <SuggestedTraits>Ambitious</SuggestedTraits>
@@ -46,8 +46,8 @@
   <AcademicDefaultCourseID>AcademicsCollegeOfScienceRabbitHoleCourse</AcademicDefaultCourseID>
   <AcademicDefaultLectureID>AcademicsLectureTechnology</AcademicDefaultLectureID>
   <AcademicDefaultLabID>AcademicsLabTechnology</AcademicDefaultLabID>
-  <AssociatedOccupationNameEnum>LawEnforcement, Military, GameDeveloper, BotArena</AssociatedOccupationNameEnum>
-  <SkillsThatGrantXP>Handiness,0.01; Logic,0.01; Inventing,0.01; BotBuilding,0.01; Hacking,0.01; VideoGame,0.01</SkillsThatGrantXP>
+  <AssociatedOccupationNameEnum>BotArena, GameDeveloper, LawEnforcement, Military</AssociatedOccupationNameEnum>
+  <SkillsThatGrantXP>BotBuilding,0.01; Hacking,0.01; Handiness,0.01; Inventing,0.01; Logic,0.01; VideoGame,0.01</SkillsThatGrantXP>
   <BeneficialTraits>Ambitious, BotFan, Brave, ComputerWhiz, Daredevil, Eccentric, Genius, Good, Handy, NoSenseOfHumor, Workaholic</BeneficialTraits>
   <DetrimentalTraits>AbsentMinded, Coward, Loser</DetrimentalTraits>
   <SuggestedTraits>Workaholic</SuggestedTraits>
@@ -63,8 +63,8 @@
   <AcademicDefaultCourseID>AcademicsCollegeOfScienceRabbitHoleCourse</AcademicDefaultCourseID>
   <AcademicDefaultLectureID>AcademicsLectureScience</AcademicDefaultLectureID>
   <AcademicDefaultLabID>AcademicsLabScience</AcademicDefaultLabID>
-  <AssociatedOccupationNameEnum>Medical, Science, Astronomer</AssociatedOccupationNameEnum>
-  <SkillsThatGrantXP>Fishing,0.01; Gardening,0.01; Science,0.01; Spellcraft,0.01; Future,0.01; Alchemy,0.01; Logic,0.01</SkillsThatGrantXP>
+  <AssociatedOccupationNameEnum>Astronomer, Medical, Science</AssociatedOccupationNameEnum>
+  <SkillsThatGrantXP>Alchemy,0.01; Fishing,0.01; Future,0.01; Gardening,0.01; Logic,0.01; Science,0.01; Spellcraft,0.01</SkillsThatGrantXP>
   <BeneficialTraits>Ambitious, Angler, Bookworm, GathererTrait, Genius, GreenThumb, Perceptive, Perfectionist, SociallyAwkward, Workaholic</BeneficialTraits>
   <DetrimentalTraits>AbsentMinded, Loser</DetrimentalTraits>
   <SuggestedTraits>Genius</SuggestedTraits>
@@ -81,7 +81,7 @@
   <AcademicDefaultLectureID>AcademicsLectureFineArts</AcademicDefaultLectureID>
   <AcademicDefaultLabID>AcademicsLabFineArts</AcademicDefaultLabID>
   <AssociatedOccupationNameEnum>ArtAppraiser, Culinary, Film, Music</AssociatedOccupationNameEnum>
-  <SkillsThatGrantXP>StreetArt,0.01; Cooking,0.01; Painting,0.01; Nectar, 0.01; Sculpting,0.01; Piano,0.01; Guitar,0.01; Drums,0.01; BassGuitar,0.01; LaserHarp,0.01; Photography,0.01; Writing,0.01; Bartending,0.01; Dancing,0.01</SkillsThatGrantXP>
+  <SkillsThatGrantXP>Bartending,0.01; BassGuitar,0.01; Cooking,0.01; Dancing,0.01; Drums,0.01; Guitar,0.01; LaserHarp,0.01; Nectar,0.01; Painting,0.01; Photography,0.01; Piano,0.01; Sculpting,0.01; StreetArt,0.01; Writing,0.01</SkillsThatGrantXP>
   <BeneficialTraits>Ambitious, Artistic, AvantGarde, Bookworm, Dramatic, Genius, NaturalBornPerformer, NaturalCook, PhotographersEye, Rebellious, Rocker, SavvySculptor, Virtuoso, Workaholic, Xfactor</BeneficialTraits>
   <DetrimentalTraits>AbsentMinded, CantStandArt, Loser</DetrimentalTraits>
   <SuggestedTraits>Artistic</SuggestedTraits>
@@ -97,8 +97,8 @@
   <AcademicDefaultCourseID>AcademicsCollegeOfBusinessRabbitHoleCourse</AcademicDefaultCourseID>
   <AcademicDefaultLectureID>AcademicsLectureCommunications</AcademicDefaultLectureID>
   <AcademicDefaultLabID>AcademicsLabCommunications</AcademicDefaultLabID>
-  <AssociatedOccupationNameEnum>Journalism, Political, FortuneTeller, Education</AssociatedOccupationNameEnum>
-  <SkillsThatGrantXP>Writing,0.01; Photography,0.01; Charisma,0.01; SocialNetworking,0.01</SkillsThatGrantXP>
+  <AssociatedOccupationNameEnum>Education, FortuneTeller, Journalism, Political</AssociatedOccupationNameEnum>
+  <SkillsThatGrantXP>Charisma,0.01; Photography,0.01; SocialNetworking,0.01; Writing,0.01</SkillsThatGrantXP>
   <BeneficialTraits>Ambitious, Bookworm, Charismatic, Diva, Flirty, Friendly, Genius, GoodSenseOfHumor, Irresistible, Perceptive, PhotographersEye, Schmoozer, SocialButterfly, Workaholic</BeneficialTraits>
   <DetrimentalTraits>AbsentMinded, Loner, Loser, Shy</DetrimentalTraits>
   <SuggestedTraits>Irresistible</SuggestedTraits>
@@ -114,8 +114,8 @@
   <AcademicDefaultCourseID>AcademicsAnnexRabbitHoleCourse</AcademicDefaultCourseID>
   <AcademicDefaultLectureID>AcademicsLecturePhysEd</AcademicDefaultLectureID>
   <AcademicDefaultLabID>AcademicsLabPhysEd</AcademicDefaultLabID>
-  <AssociatedOccupationNameEnum>ProfessionalSports, Criminal, SportsAgent</AssociatedOccupationNameEnum>
-  <SkillsThatGrantXP>Athletic,0.01; MartialArts,0.01; Riding,0.01; ScubaDiving,0.01; Snowboarding,0.01; Windsurfing,0.01; Skating,0.01; Diving,0.01; Waterskiing,0.01</SkillsThatGrantXP>
+  <AssociatedOccupationNameEnum>Criminal, ProfessionalSports, SportsAgent</AssociatedOccupationNameEnum>
+  <SkillsThatGrantXP>Athletic,0.01; Diving,0.01; MartialArts,0.01; Riding,0.01; ScubaDiving,0.01; Skating,0.01; Snowboarding,0.01; Waterskiing,0.01; Windsurfing,0.01</SkillsThatGrantXP>
   <BeneficialTraits>Ambitious, Athletic, Burglar, Daredevil, Disciplined, Evil, Genius, Kleptomaniac, LovesTheOutdoors, LovesToSwim, Sailor, Workaholic</BeneficialTraits>
   <DetrimentalTraits>AbsentMinded, Clumsy, CouchPotato, Loser</DetrimentalTraits>
   <SuggestedTraits>Athletic</SuggestedTraits>
