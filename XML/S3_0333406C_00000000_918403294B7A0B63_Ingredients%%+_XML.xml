@@ -374,7 +374,7 @@
   <Nectar_Value>18</Nectar_Value>
   <AncientNectarWeight>1</AncientNectarWeight>
   <Price>18</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>True</IsEdible>
@@ -433,7 +433,7 @@
   <DrinkQuality_Max>0.1</DrinkQuality_Max>
   <AncientNectarWeight>1</AncientNectarWeight>
   <Price>25</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>Horses,AB</PetSpeciesThatCanEatOffPlant>
   <IsMushrooms>False</IsMushrooms>
@@ -444,7 +444,6 @@
   <Ingredient_Key>Grapes Char</Ingredient_Key>
   <Ingredient_Name>GrapesChar</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Common</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -467,7 +466,6 @@
   <Ingredient_Key>Grapes Mer</Ingredient_Key>
   <Ingredient_Name>GrapesMer</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Common</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -490,7 +488,6 @@
   <Ingredient_Key>Grapes Blanc</Ingredient_Key>
   <Ingredient_Name>GrapesBlanc</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -501,7 +498,7 @@
   <Nectar_Value>8</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>7</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
@@ -513,7 +510,6 @@
   <Ingredient_Key>Grapes Blue</Ingredient_Key>
   <Ingredient_Name>GrapesBlue</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -524,7 +520,7 @@
   <Nectar_Value>10</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>8</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
@@ -536,7 +532,6 @@
   <Ingredient_Key>Grapes Cab</Ingredient_Key>
   <Ingredient_Name>GrapesCab</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -547,7 +542,7 @@
   <Nectar_Value>12</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>10</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
@@ -559,7 +554,6 @@
   <Ingredient_Key>Grapes Pin</Ingredient_Key>
   <Ingredient_Name>GrapesPin</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>France</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Grape</Parent>
@@ -570,7 +564,7 @@
   <Nectar_Value>16</Nectar_Value>
   <AncientNectarWeight>12</AncientNectarWeight>
   <Price>13</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <CanBeSoldInNectarRegister>False</CanBeSoldInNectarRegister>
   <PetSpeciesThatCanEatOffGround>AllDogs,Horses,AB</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>AllDogs,Horses,AB</PetSpeciesThatCanEatOffPlant>
@@ -582,7 +576,6 @@
   <Ingredient_Key>Pomegranate</Ingredient_Key>
   <Ingredient_Name>Pomegranate</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>Egypt</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
@@ -604,7 +597,6 @@
   <Ingredient_Key>Plum</Ingredient_Key>
   <Ingredient_Name>Plum</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Uncommon</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
@@ -626,7 +618,6 @@
   <Ingredient_Key>Pomelo</Ingredient_Key>
   <Ingredient_Name>Pomelo</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>China</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
@@ -648,7 +639,6 @@
   <Ingredient_Key>Cherries</Ingredient_Key>
   <Ingredient_Name>Cherries</Ingredient_Name>
   <CodeVersion>EP1</CodeVersion>
-  <RequiredWorld>Egypt</RequiredWorld>
   <Rarity>Rare</Rarity>
   <UiTab>Produce</UiTab>
   <Parent>Fruit</Parent>
@@ -745,7 +735,7 @@
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>0</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -760,7 +750,7 @@
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>0</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -854,7 +844,7 @@
   <Model_Name>beesWax</Model_Name>
   <Thumbnail_Model_Name>beesWax</Thumbnail_Model_Name>
   <Price>35</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -925,7 +915,7 @@
   <Fertilizer_Value>20</Fertilizer_Value>
   <Fertilizer_Days>6</Fertilizer_Days>
   <Price>64</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <SpawnInLunarCycle>full</SpawnInLunarCycle>
@@ -943,7 +933,7 @@
   <Fertilizer_Value>15</Fertilizer_Value>
   <Fertilizer_Days>4</Fertilizer_Days>
   <Price>38</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -960,7 +950,7 @@
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>6</Fertilizer_Days>
   <Price>20</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -977,7 +967,7 @@
   <Fertilizer_Value>12</Fertilizer_Value>
   <Fertilizer_Days>5</Fertilizer_Days>
   <Price>33</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>True</IsMushrooms>
   <SpawnAtNightOnly>True</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -1012,7 +1002,7 @@
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>6</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -1029,7 +1019,7 @@
   <Fertilizer_Value>5</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>6</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -1046,7 +1036,7 @@
   <Fertilizer_Value>10</Fertilizer_Value>
   <Fertilizer_Days>3</Fertilizer_Days>
   <Price>13</Price>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
   <IsEdible>False</IsEdible>
@@ -1423,6 +1413,6 @@
   <CanBuyFromStore>True</CanBuyFromStore>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
-  <IsEdible>False</IsEdible>
+  <IsEdible>True</IsEdible>
  </Data>
 </Ingredients>
