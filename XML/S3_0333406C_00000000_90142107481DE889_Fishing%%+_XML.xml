@@ -540,7 +540,7 @@
   <Bait>Piranha</Bait>
   <Level>9</Level>
   <MinWeight>250</MinWeight>
-  <MaxWeight>100</MaxWeight>
+  <MaxWeight>1000</MaxWeight>
   <OverMax>True</OverMax>
   <MinPrice>50</MinPrice>
   <MaxPrice>275</MaxPrice>
