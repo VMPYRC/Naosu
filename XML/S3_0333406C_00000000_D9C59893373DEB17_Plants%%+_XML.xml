@@ -1624,7 +1624,35 @@
   <ProductVersion>EP11</ProductVersion>
 </MedatorInstanceList>
 </Plants>
-
+<Plants_store>
+<PlantList>
+  <PlantName></PlantName>
+  <LocalizationKeyPlantName></LocalizationKeyPlantName>
+  <LocalizationKeySeedName></LocalizationKeySeedName>
+  <LocalizationKeyDescription></LocalizationKeyDescription>
+  <CodeVersion>BaseGame</CodeVersion>
+  <Rarity># HIDDEN COLUMNS</Rarity>
+  <LimitedAvailability>False</LimitedAvailability>
+  <OpportunityPrerequisite>Undefined</OpportunityPrerequisite>
+  <SkillRequirement></SkillRequirement>
+  <SkillDifficulty></SkillDifficulty>
+  <SkillPointsPlant></SkillPointsPlant>
+  <SkillPointsHarvest></SkillPointsHarvest>
+  <PerfThresholdAvgToGood>50</PerfThresholdAvgToGood>
+  <PerfThresholdGoodToGreat>75</PerfThresholdGoodToGreat>
+  <PerfBonusDrySoil>0</PerfBonusDrySoil>
+  <PerfBonusNeutralSoil>5</PerfBonusNeutralSoil>
+  <PerfBonusWetSoil>10</PerfBonusWetSoil>
+  <WaterDecay></WaterDecay>
+  <WeedProblem></WeedProblem>
+  <HarvestStateDurationMin></HarvestStateDurationMin>
+  <HarvestStateDurationMax></HarvestStateDurationMax>
+  <NumLifetimeHarvestables></NumLifetimeHarvestables>
+  <NumHarvestablesMin></NumHarvestablesMin>
+  <NumHarvestablesMax></NumHarvestablesMax>
+  <MedatorName></MedatorName>
+  <Version>1</Version>
+</PlantList>
 <PlantList>
   <PlantName>BlueberryPlant</PlantName>
   <LocalizationKeyPlantName>BlueberryPlant</LocalizationKeyPlantName>
