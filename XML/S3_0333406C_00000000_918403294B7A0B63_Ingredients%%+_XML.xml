@@ -63,7 +63,7 @@
   <Rarity>ExtraordinarilyUnusual</Rarity>
   <Parent>Ingredient</Parent>
   <Model_Name>marshmellow</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
@@ -683,7 +683,7 @@
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatCookieRainbow</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
@@ -695,7 +695,7 @@
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatCookieSpaceship</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
@@ -707,7 +707,7 @@
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatCupcake</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
@@ -719,7 +719,7 @@
   <DataVersion>EP4</DataVersion>
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatDonut</Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>AllDogs</PetSpeciesThatCanEatOffGround>
   <IsMushrooms>False</IsMushrooms>
   <SpawnAtNightOnly>False</SpawnAtNightOnly>
@@ -782,7 +782,7 @@
   <Parent>Ingredient</Parent>
   <Model_Name>foodEatGourmetPetFoodHorse</Model_Name>
   <Thumbnail_Model_Name>foodEatGourmetPetFoodHorse</Thumbnail_Model_Name>
-  <CanBuyFromStore>False</CanBuyFromStore>
+  <CanBuyFromStore>True</CanBuyFromStore>
   <PetSpeciesThatCanEatOffGround>Horses</PetSpeciesThatCanEatOffGround>
   <PetSpeciesThatCanEatOffPlant>Horses</PetSpeciesThatCanEatOffPlant>
   <IsMushrooms>False</IsMushrooms>
